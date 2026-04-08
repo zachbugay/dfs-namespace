@@ -1,0 +1,3 @@
+# VPN client config (contains secrets, downloaded during deploy)
+infra/vpnclient/
+infra/vpnclient.zip
